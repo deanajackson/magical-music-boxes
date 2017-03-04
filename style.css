@@ -1,0 +1,124 @@
+h1{
+  text-align: center;
+  font-family: Georgia;
+}
+
+.boxblack {
+ border: 9px solid black;
+ background-color: Khaki;
+ height:80px;
+ width: 80px;
+  display: inline-block;
+}
+
+.boxblack:hover{
+  background-color: black;
+  border: 12px solid DarkOliveGreen;
+  
+  Height: 80px;
+  width: 80px;
+}
+
+.boxgreen{
+  border: 9px solid Khaki;
+ background-color: DarkSlateGrey;
+ height:80px;
+ width: 80px;
+ display: inline-block;
+}
+
+.boxgreen:hover{
+  background-color: DarkOliveGreen;
+  border: 12px solid DarkSeaGreen;
+  Height: 80px;
+  width: 80px;
+}
+
+.boxDarkSeaGreen {
+ border: 9px solid DarkOliveGreen;
+ background-color: DarkSeaGreen;
+ height:80px;
+ width: 80px;
+  display: inline-block;
+}
+
+.boxDarkSeaGreen:hover{
+  background-color: ;
+  border: 12px solid black;
+  Height: 80px;
+  width: 80px;
+}
+.boxDarkSlateGrey {
+ border: 9px solid black;
+ background-color: DarkSlateGrey;
+ height:80px;
+ width: 80px;
+  display: inline-block;
+}
+
+.boxDarkSlateGrey:hover{
+  background-color: DarkOliveGreen;
+  border: 12px solid DarkSlateGrey;
+  Height: 80px;
+  width: 80px;
+}
+
+.boxblack2 {
+ border: 9px solid DarkSlateGrey;
+ background-color: Khaki;
+ height:80px;
+ width: 80px;
+  display: inline-block;
+}
+
+.boxblack2:hover{
+  background-color: DarkSeaGreen;
+  border: 12px solid black;
+  
+  Height: 80px;
+  width: 80px;
+}
+
+.boxgreen2{
+  border: 9px solid DarkOliveGreen;
+ background-color: DarkSlateGrey;
+ height:80px;
+ width: 80px;
+ display: inline-block;
+}
+
+.boxgreen2:hover{
+  background-color: DarkSeaGreen;
+  border: 12px solid DarkOliveGreen;
+  Height: 80px;
+  width: 80px;
+}
+
+.boxDarkSeaGreen2 {
+ border: 9px solid Khaki;
+ background-color: DarkSeaGreen;
+ height:80px;
+ width: 80px;
+  display: inline-block;
+}
+
+.boxDarkSeaGreen2:hover{
+  background-color: Khaki;
+  border: 12px solid black;
+  Height: 80px;
+  width: 80px;
+}
+.boxDarkSlateGrey2 {
+ border: 9px solid black;
+ background-color: DarkSlateGrey;
+ height:80px;
+ width: 80px;
+  display: inline-block;
+}
+
+.boxDarkSlateGrey2:hover{
+  background-color: DarkOliveGreen;
+  border: 12px solid DarkSlateGrey;
+  Height: 80px;
+  width: 80px;
+}
