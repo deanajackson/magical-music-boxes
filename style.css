@@ -1,11 +1,13 @@
+
 h1{
   text-align: center;
   font-family: Georgia;
 }
 
-.wrapper{
-  display: flex;
-  justify-content: center;
+.wrapper {
+ display: flex;
+ justify-content: center;
+ 
 }
 
 .boxblack {
