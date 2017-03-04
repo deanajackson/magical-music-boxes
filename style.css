@@ -3,6 +3,11 @@ h1{
   font-family: Georgia;
 }
 
+.wrapper{
+  display: flex;
+  justify-content: center;
+}
+
 .boxblack {
  border: 9px solid black;
  background-color: Khaki;
